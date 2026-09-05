@@ -1,0 +1,5 @@
+Task Code,Task Title,Task Unit,Task Group,Task Description,Material Code,Material Title,Material Unit,Material Quantity
+RD001,Synthetic masonry task,m2,demo masonry,exterior wall demo construction,MAT001,synthetic block,u,"8,0"
+RD001,Synthetic masonry task,m2,demo masonry,exterior wall demo construction,MAT002,synthetic mortar,kg,"4,0"
+RD001,Synthetic masonry task,m2,demo masonry,exterior wall demo construction,MAT004,synthetic coating,kg,"0,5"
+RD002,Synthetic structural task,m3,demo structure,structural concrete demo element,MAT003,synthetic concrete,kg,"100,0"
