@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the two related methodological papers listed under references."
+title: "Automated BoQ-to-LCA Workflow"
+type: software
+version: "1.0.0"
+date-released: "2026-09-05"
+authors:
+  - family-names: "Gachkar"
+    given-names: "Sadaf"
+    orcid: "https://orcid.org/0000-0003-2781-5368"
+  - family-names: "Gachkar"
+    given-names: "Darya"
+    orcid: "https://orcid.org/0000-0002-9780-7577"
+license: MIT
+keywords:
+  - Life Cycle Assessment
+  - Bill of Quantities
+  - Natural Language Processing
+  - Construction
+  - Embodied carbon
+  - Machine Learning
+references:
+  - type: article
+    title: "Text-based algorithms for automating life cycle inventory analysis in building sector life cycle assessment studies"
+    authors:
+      - family-names: "Gachkar"
+        given-names: "Sadaf"
+      - family-names: "Gachkar"
+        given-names: "Darya"
+      - family-names: "Ghofrani"
+        given-names: "Erfan"
+      - family-names: "García Martínez"
+        given-names: "Antonio"
+      - family-names: "Angulo Bahón"
+        given-names: "Cecilio"
+    journal: "Journal of Cleaner Production"
+    volume: "486"
+    year: 2025
+    doi: "10.1016/j.jclepro.2024.144448"
+    url: "https://doi.org/10.1016/j.jclepro.2024.144448"
+  - type: article
+    title: "Automating data integration for construction Life Cycle Assessment using fuzzy matching and supervised learning"
+    authors:
+      - family-names: "Gachkar"
+        given-names: "Darya"
+      - family-names: "Gachkar"
+        given-names: "Sadaf"
+      - family-names: "Ghofrani"
+        given-names: "Erfan"
+      - family-names: "García Martínez"
+        given-names: "Antonio"
+      - family-names: "Angulo Bahón"
+        given-names: "Cecilio"
+    journal: "Automation in Construction"
+    volume: "178"
+    year: 2025
+    doi: "10.1016/j.autcon.2025.106381"
+    url: "https://doi.org/10.1016/j.autcon.2025.106381"
