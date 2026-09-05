@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 erfan-ghofrani
+Copyright (c) 2026 Sadaf Gachkar and Darya Gachkar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This licence applies to the source code and synthetic example files contained
+in this repository. No third-party project document or licensed construction/
+environmental database content is distributed with the Software, and no rights
+to such third-party content are granted by this licence.
