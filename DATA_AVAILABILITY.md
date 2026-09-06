@@ -19,7 +19,7 @@ The repository also contains empty input-schema templates under
 The following research inputs are not redistributed:
 
 - the original case-study BoQ and project documentation;
-- BCCA database extracts where redistribution rights are not established;
+- BCCA database extracts;
 - ecoinvent datasets, exports, environmental factors, or database records;
 - the authors' original merged BCCA--ecoinvent database;
 - project-specific result tables that may reproduce restricted source data.
