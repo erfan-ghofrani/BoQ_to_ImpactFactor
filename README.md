@@ -222,7 +222,7 @@ the size of the reference/candidate search space.
 ## License
 
 The source code in this repository is released under the
-[MIT License](LICENSE).
+[License](LICENSE).
 
 The MIT License applies only to the authors' source code and synthetic example
 files contained in this repository. It does **not** grant rights to any
